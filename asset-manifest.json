@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sanish07/react-nav-app/static/css/main.42ccd619.css",
+    "main.js": "/Sanish07/react-nav-app/static/js/main.0cee0729.js",
+    "static/js/787.71ef33e8.chunk.js": "/Sanish07/react-nav-app/static/js/787.71ef33e8.chunk.js",
+    "index.html": "/Sanish07/react-nav-app/index.html",
+    "main.42ccd619.css.map": "/Sanish07/react-nav-app/static/css/main.42ccd619.css.map",
+    "main.0cee0729.js.map": "/Sanish07/react-nav-app/static/js/main.0cee0729.js.map",
+    "787.71ef33e8.chunk.js.map": "/Sanish07/react-nav-app/static/js/787.71ef33e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42ccd619.css",
+    "static/js/main.0cee0729.js"
+  ]
+}
