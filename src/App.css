@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+nav{
+
+}
+
+.nav-items {
+  display: inline;
+  margin-left: 6vw;
+}
+
+.nav-items > a {
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 1.1rem;
+}
+
+.items-con{
+  display: inline;
+  position: absolute;
+  right : 3vw
+}
